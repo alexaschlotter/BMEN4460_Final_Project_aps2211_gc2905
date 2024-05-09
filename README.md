@@ -16,3 +16,17 @@ Repository Description:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; events_Passive.mat  
 -> code: contains jupyter notebook containing analysis of free interaction data and figure generation  
   &nbsp;&nbsp;&nbsp;&nbsp; free_interaction_final_project.ipynb
+
+
+
+
+- instrumental  
+-> data: contains datasets used for analysis of instrumental data.  
+  &nbsp;&nbsp;&nbsp;&nbsp; ->  Sh_Ins_1  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neuron_pDA_1_.mat  
+  &nbsp;&nbsp;&nbsp;&nbsp; ->  Sh_Ins_4  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neuron_pDA_1_.mat  
+  &nbsp;&nbsp;&nbsp;&nbsp; ->  Sh_Ins_7    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neuron_pDA_1_.mat  
+-> code: contains jupyter notebook containing analysis of instrumental data and figure generation  
+  &nbsp;&nbsp;&nbsp;&nbsp; instrumental_final_project.ipynb
